@@ -6,6 +6,11 @@
     align-items: center;
     justify-content: center;
     cursor: pointer;
+
+    .empty-messagge {
+      font-size: 18px;
+      margin: 50px auto;
+    }
   
     .shopping-icon {
       width: 24px;
@@ -18,4 +23,6 @@
       font-weight: bold;
       bottom: 12px;
     }
+
+   
   }
